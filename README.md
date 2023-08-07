@@ -1,7 +1,8 @@
 
-![Frame 1](https://user-images.githubusercontent.com/70939623/214012148-f2999f3a-4d42-4c26-9f3c-b2772508a474.png)
+![Github bio](https://github.com/weeerusu/qintharaandini/assets/70939623/53a185cb-bb3f-4f59-b090-baae38e14291)
 
 <!--
+
 ### Hi there 👋
 **qintharaandini/qintharaandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
