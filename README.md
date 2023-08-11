@@ -1,5 +1,5 @@
 
-![Github bio](https://github.com/weeerusu/qintharaandini/assets/70939623/53a185cb-bb3f-4f59-b090-baae38e14291)
+![Github bio](https://github.com/weeerusu/weeerusu/assets/70939623/d987ce6a-ef49-4c2c-841b-4b7bb14e8161)
 
 <h1 align="center">Hi 👋, I'm Qin</h1>
 <h3 align="center">A computer engineer from Jakarta, Indonesia</h3>
